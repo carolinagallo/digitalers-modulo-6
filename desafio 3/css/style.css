@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700;900&display=swap");
+
+@font-face {
+  font-family: "mifuente1";
+  src: url(/font/coolvetica\ rg.otf);
+}
+
+main {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 70px;
+}
+div {
+  width: 25%;
+  padding: 1em;
+  background-color: #eff2ff;
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: 24px;
+}
+img {
+  width: 30%;
+}
+h1 {
+  font-family: "mifuente1";
+  font-size: 120px;
+  font-weight: 400;
+  color: #0a2ff1;
+  margin-bottom: 0px;
+}
+header p {
+  font-family: "Roboto";
+  font-weight: 300;
+  font-size: 40px;
+  color: #04146c;
+}
+#negrita1 {
+  font-weight: bold;
+}
+section {
+  font-family: "Roboto";
+  font-weight: 300;
+  font-style: italic;
+  font-size: 24px;
+  color: #04146c;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+.negrita2 {
+  font-weight: 900;
+  color: #04146c;
+}
